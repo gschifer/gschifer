@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at **[IBM](https://www.ibm.com/br-pt)**. 
 
-- 🌱 I’m currently learning everything about Spring Boot and related technologies about API Development. 
+- 🌱 I’m currently learning everything about **Spring Boot** and related technologies about API Development. 
 
 - 💬 Ask me about Spring boot, english language, soccer and animes, haha 😆. 
 
