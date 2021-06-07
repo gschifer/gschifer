@@ -8,4 +8,4 @@
 
 - 📫 Get in touch with **[me](https://www.linkedin.com/in/gabriel-schiferdecke-540307139)**.
 
-- ⚡ Fun fact: I hate coconuts 🥥 and olives 🫒 .
+- ⚡ Fun fact: I hate 🤮 coconuts 🥥 and olives 🫒 .
