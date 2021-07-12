@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at **[IBM](https://www.ibm.com/br-pt)**. 
 
-- 🌱 I’m focused on learning **Spring Webflux** and its related technologies such as **MongoDB**, **OAuth2**, **Mockito** and so on. But I'm trying to improve and being enthralled in imperative programing at Spring Boot.
+- 🌱 I’m focused on learning **Spring Webflux** and its related technologies such as **MongoDB**, **OAuth2**, **Mockito** and so on. I'm also improving and being enthralled in imperative programming at Spring Boot.
 
 - 💬 Ask me about Java general topics, english language, soccer and animes, haha 😆. 
 
