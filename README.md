@@ -10,13 +10,14 @@
 
 - ⚡ Fun fact: I hate 🤮 coconuts 🥥, olives 🫒 and laziness.
 
-<br>
-<a href="https://github.com/gschifer/github-readme-stats">
-  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=gschifer&count_private=true&show_icons=true&custom_title=Gabriel Schiferdecke's%20Github%20Stats&hide=issues&theme=tokyonight" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="164" src="https://github-readme-stats.vercel.app/api?username=gschifer&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/gschifer/github-readme-stats">
-   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschifer&layout=compact&theme=tokyonight&langs_count=6)" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschifer&layout=compact&theme=tokyonight" />
 </a>
+
 
 
 ### Find me elsewhere 👨🏻‍💻🌏
