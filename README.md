@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at **[IBM](https://www.ibm.com/br-pt)**. 
 
-- 🌱 I’m focused on learning **Quarkus** to build microservices and **Angular** to create and maintain interfaces, always seeking the next level.
-
 - 💬 Ask me about Java general topics, english language, soccer and animes, haha 😆. 
 
 - 📫 Get in touch with **[me](https://www.linkedin.com/in/gabriel-schiferdecke-540307139)**.
