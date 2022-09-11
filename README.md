@@ -1,6 +1,6 @@
 <h1 align="center">Hi buddy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Schiferdecke</h1>
 
-- 🔭 I’m currently working at **[IBM](https://www.ibm.com/br-pt)**. 
+- 🔭 I’m currently working at **[SAP](https://www.sap.com/brazil/index.html)**. 
 
 - 💬 Ask me about Java general topics, english language, soccer and animes, haha 😆. 
 
